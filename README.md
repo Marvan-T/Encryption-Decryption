@@ -3,4 +3,8 @@ Encryption-Decryption program that is able to take input from the command line/f
 - Unicode
 - Alphabet Shifting 
 <br />
-![encryp-decrypt](https://user-images.githubusercontent.com/65969444/96375922-ebce2900-1173-11eb-984f-b06174bee6bd.gif)
+
+![ezgif-3-c7d37fcb53a9](https://user-images.githubusercontent.com/65969444/96375973-351e7880-1174-11eb-8fc6-d65eb5a3f7e9.gif)
+
+
+
